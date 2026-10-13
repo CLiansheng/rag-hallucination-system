@@ -1,0 +1,19 @@
+# API 密钥
+.env
+
+# Python 虚拟环境
+rag_nlp/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 原始数据和向量索引
+data/
+
+# BERT 模型权重
+models/
+
+# IDE 配置
+.vscode/
+.idea/
